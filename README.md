@@ -35,17 +35,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```typescript
-const sunny = {
-  role   : "Full-Stack Software Engineer 🚀",
-  college: "B.Tech — [YOUR COLLEGE]",
-  stack  : ["C++", "Java", "JavaScript", "TypeScript", "Python"],
-  openTo : "SDE Internship & Full-Time Roles 💼",
-  solved : "441+ LeetCode | GSSoC | Hacktoberfest Lv4"
-};
-```
 > 🔭 Building → **[YOUR PROJECT]** &nbsp;|&nbsp; 🌱 Learning → **System Design · Next.js · LLMs**
 
 ---
