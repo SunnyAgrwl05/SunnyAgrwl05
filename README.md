@@ -141,6 +141,7 @@
 <a href="https://drive.google.com/file/d/1rzoKxIqJHA5VgSqqStS6ArweoRwBw8F_/view?usp=sharing"><img height="28" src="https://img.shields.io/badge/📄_Resume-FF6B35?style=flat-square"/></a>
 <a href="https://x.com/SunnyTechLead"><img height="28" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100015548672306"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/@TechWithSunny90"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
 <br/>
 
@@ -148,6 +149,7 @@
 <a href="https://www.linkedin.com/company/upskillyfy-ai/?viewAsMember=true"><img height="26" src="https://img.shields.io/badge/🚀_Upskillyfy_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
 
 ---
 
