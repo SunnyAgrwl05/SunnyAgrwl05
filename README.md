@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SunnyAgrwl05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SunnyAgrwl05)
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.2k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7.4k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#)
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](https://drive.google.com/file/d/1rzoKxIqJHA5VgSqqStS6ArweoRwBw8F_/view?usp=sharing)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://holopin.io/@sunnyajit)
