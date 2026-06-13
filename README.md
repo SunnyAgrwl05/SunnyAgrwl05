@@ -150,8 +150,7 @@ sunnykumarescc
 
 </tr>
 </table>
--------
-
+ 
 ## 💼 Why Hire Me?
 
 ⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG pipelines in months
