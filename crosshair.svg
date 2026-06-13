@@ -1,0 +1,66 @@
+<svg width="500" height="340" viewBox="0 0 500 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .lbl { font-size:12px; fill:#8b949e; }
+      .pct { font-size:13px; font-weight:700; fill:#e6edf3; }
+      .ttl { font-size:14px; font-weight:600; fill:#e6edf3; }
+    </style>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="500" height="340" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="250" y="32" class="ttl" text-anchor="middle">Activity Overview</text>
+
+  <!-- Faint grid -->
+  <line x1="80" y1="170" x2="420" y2="170" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="250" y1="60" x2="250" y2="280" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- TOP: Code review -->
+  <text x="250" y="58"  class="pct" text-anchor="middle">3%</text>
+  <text x="250" y="72"  class="lbl" text-anchor="middle">Code review</text>
+
+  <!-- BOTTOM: Pull requests -->
+  <text x="250" y="298" class="pct" text-anchor="middle">6%</text>
+  <text x="250" y="314" class="lbl" text-anchor="middle">Pull requests</text>
+
+  <!-- LEFT: Commits 91% -->
+  <text x="75"  y="166" class="pct" text-anchor="end">91%</text>
+  <text x="75"  y="181" class="lbl" text-anchor="end">Commits</text>
+
+  <!-- RIGHT: Issues -->
+  <text x="425" y="166" class="pct" text-anchor="start">0%</text>
+  <text x="425" y="181" class="lbl" text-anchor="start">Issues</text>
+
+  <!-- CROSSHAIR ARMS (green glow) -->
+  <!-- Left arm (Commits 91% - very long) -->
+  <line x1="100" y1="170" x2="249" y2="170" stroke="#39d353" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <!-- Right arm (Issues 0% - dot only) -->
+  <line x1="251" y1="170" x2="255" y2="170" stroke="#39d353" stroke-width="3" stroke-linecap="round"/>
+  <!-- Top arm (Code review 3% - short) -->
+  <line x1="250" y1="155" x2="250" y2="169" stroke="#39d353" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <!-- Bottom arm (Pull requests 6% - medium) -->
+  <line x1="250" y1="171" x2="250" y2="192" stroke="#39d353" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+
+  <!-- Center crosshair dot -->
+  <circle cx="250" cy="170" r="8" fill="#39d353" filter="url(#glow)"/>
+  <circle cx="250" cy="170" r="4" fill="#161b22"/>
+
+  <!-- End dots -->
+  <circle cx="100" cy="170" r="5" fill="#39d353" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="250" cy="155" r="4" fill="#39d353" opacity="0.7"/>
+  <circle cx="250" cy="192" r="4" fill="#39d353" opacity="0.7"/>
+
+  <!-- Legend -->
+  <rect x="95"  y="320" width="10" height="10" rx="2" fill="#39d353"/>
+  <text x="110" y="330" class="lbl" font-size="11">Commits 91%</text>
+  <rect x="205" y="320" width="10" height="10" rx="2" fill="#39d353" opacity="0.75"/>
+  <text x="220" y="330" class="lbl" font-size="11">PRs 6%</text>
+  <rect x="290" y="320" width="10" height="10" rx="2" fill="#39d353" opacity="0.5"/>
+  <text x="305" y="330" class="lbl" font-size="11">Code Review 3%</text>
+</svg>
