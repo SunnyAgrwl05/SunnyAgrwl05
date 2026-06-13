@@ -8,7 +8,7 @@
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.2k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)&nbsp;
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#)&nbsp;
-[![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](YOUR_RESUME_LINK)&nbsp;
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](https://drive.google.com/file/d/1rzoKxIqJHA5VgSqqStS6ArweoRwBw8F_/view?usp=sharing)&nbsp;
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://holopin.io/@sunnyajit)&nbsp;
 [![GSSoC](https://img.shields.io/badge/GSSoC-Active-2ea44f?style=flat-square)](https://github.com/SunnyAgrwl05)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/Sunnyagrwal/)
@@ -46,11 +46,11 @@
 ### 🏅 Roles & Recognition
 
 <p align="center">
-<a href="PASTE_MLSA_PROFILE_URL"><img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="PASTE_GSA26_PROFILE_URL"><img src="https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-<a href="PASTE_GDG_CHAPTER_URL"><img src="https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
-<a href="PASTE_GDG_PATNA_URL"><img src="https://img.shields.io/badge/GDG_Patna_%7C_Tech_Core_Team-EA4335?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
-<a href="PASTE_SFUG_PATNA_URL"><img src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+<a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_global-experts-technologies-activity-7274783021101170689-1Rgl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfLiKYBl1v41vEXsMLt5KJqrXN98s_m5KI"><img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_tech-gamma-gsa2026-activity-7452456785740861441-sN_d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfLiKYBl1v41vEXsMLt5KJqrXN98s_m5KI"><img src="https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://gdg.community.dev/u/mj4758/#/about"><img src="https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
+<a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_tech-volunteer-devfest-activity-7411297610973511680-TESb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfLiKYBl1v41vEXsMLt5KJqrXN98s_m5KI"><img src="https://img.shields.io/badge/GDG_Patna_%7C_Tech_Core_Team-EA4335?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
+<a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_salesforce-sugpatna-techcommunity-activity-7390796951237292032-QQTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfLiKYBl1v41vEXsMLt5KJqrXN98s_m5KI"><img src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
 </p>
 
 -------
@@ -172,7 +172,7 @@ sunnykumarescc
 
 <!-- Personal Links -->
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sunny-kumar-a06484297">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -180,7 +180,7 @@ sunnykumarescc
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sunnykumar98012085@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -192,15 +192,15 @@ sunnykumarescc
 
 <!-- Resume + Social -->
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1rzoKxIqJHA5VgSqqStS6ArweoRwBw8F_/view?usp=sharing">
 <img src="https://img.shields.io/badge/📄_Resume-FF6B35?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/profile.php?id=100015548672306">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="YOUR_X_URL">
+<a href="https://x.com/SunnyTechLead">
 <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -212,11 +212,11 @@ sunnykumarescc
 
 <br><br>
 
-<a href="YOUR_UPSKILLYFY_INSTAGRAM_URL">
+<a href="https://www.instagram.com/upskillyfy/">
 <img src="https://img.shields.io/badge/Instagram_Upskillyfy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_UPSKILLYFY_LINKEDIN_URL">
+<a href="https://www.linkedin.com/company/upskillyfy-ai/?viewAsMember=true">
 <img src="https://img.shields.io/badge/LinkedIn_Upskillyfy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -263,3 +263,4 @@ sunnykumarescc
 ### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
 
 </div>
+
