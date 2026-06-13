@@ -24,24 +24,19 @@
 
 ---
 
-<table width="100%"><tr>
-<td width="50%" valign="top">
-
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+</div>
 
 ### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunnyAgrwl05&theme=tokyonight&hide_border=true)
 
-</td>
-</tr></table>
+<div align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyAgrwl05&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
-
-
 
 ### 🏅 Roles & Recognition
 
@@ -53,8 +48,9 @@
 <a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_salesforce-sugpatna-techcommunity-activity-7390796951237292032-QQTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfLiKYBl1v41vEXsMLt5KJqrXN98s_m5KI"><img src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
 </p>
 
--------
- ## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -68,15 +64,13 @@
 
 </div>
 
-
----------
-
+---
 
 ## 🏆 Competitive Programming
 
 <div align="center">
 
-<table width="80%">
+<table width="100%">
 <tr>
 <td align="center" width="25%">
 
@@ -104,10 +98,10 @@ sunajit
 </td>
 <td align="center" width="25%">
 
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sunnykumarescc)
-<br/><b>Active</b><br/>
-🟢 Contributor<br/>
-sunnykumarescc
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sunnykumarexcc/)
+<br/><b>1068 Score</b><br/>
+🟢 324 Problems<br/>
+sunnykumarexcc
 
 </td>
 </tr>
@@ -118,12 +112,8 @@ sunnykumarescc
 </div>
 
 ---
- ## 📊 Snapshot
 
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
+## 📊 Snapshot
 
 ### 🔥 Currently Exploring
 
@@ -134,10 +124,6 @@ sunnykumarescc
 | 🦾 AI Agents | ██████░░░░ 65% |
 | 🔍 Vector DBs & RAG | ████░░░░░░ 42% |
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 🏆 Highlights
 
 - 🟢 **GSSoC Contributor**
@@ -146,26 +132,17 @@ sunnykumarescc
 - 🎓 **B.Tech CSE (2027)**
 - 🌱 **Open Source Enthusiast**
 
-</td>
+---
 
-</tr>
-</table>
- 
 ## 💼 Why Hire Me?
 
-⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG pipelines in months
-🛠️ **Hands-on Builder** — shipped projects across Web, AI/ML & Web3
+⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG pipelines in months  
+🛠️ **Hands-on Builder** — shipped projects across Web, AI/ML & Web3  
 🤝 **Leadership** — Tech Lead @ GDG, mentoring 100+ students
 
- --------
+---
 
-<div align="center">
-
-
-
-
-----------
- ## 🌐 Connect & Hire Me
+## 🌐 Connect & Hire Me
 
 <div align="center">
 
@@ -229,32 +206,27 @@ sunnykumarescc
 
 </div>
 
-<div align="center">
-
---------
+---
 
 ### 📈 Contribution Activity
 
-<table width="100%"><tr>
-<td width="60%" valign="top">
+<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SunnyAgrwl05&theme=tokyo-night&hide_border=true&area=true&bg_color=161b22&color=58a6ff&line=39d353&point=39d353&custom_title=Commits%20%7C%20PRs%20%7C%20Issues%20%7C%20Code%20Review)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SunnyAgrwl05&theme=tokyo-night&hide_border=true&area=true&bg_color=161b22&color=58a6ff&line=39d353&point=39d353&custom_title=Commits%20%7C%20PRs%20%7C%20Issues%20%7C%20Code%20Review" />
 
-</td>
-<td width="40%" align="center" valign="middle">
+<br><br>
 
-![Activity Overview](https://raw.githubusercontent.com/SunnyAgrwl05/SunnyAgrwl05/main/crosshair.svg#gh-dark-mode-only)
-![Activity Overview](https://raw.githubusercontent.com/SunnyAgrwl05/SunnyAgrwl05/main/crosshair.svg#gh-light-mode-only)
+<img width="60%" src="https://raw.githubusercontent.com/SunnyAgrwl05/SunnyAgrwl05/main/crosshair.svg#gh-dark-mode-only" />
+<img width="60%" src="https://raw.githubusercontent.com/SunnyAgrwl05/SunnyAgrwl05/main/crosshair.svg#gh-light-mode-only" />
 
-</td>
-</tr></table>
+</div>
 
+---
 
-
-------------
- 
+<div align="center">
 
 ### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
 
 </div>
+
 
