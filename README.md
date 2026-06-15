@@ -90,35 +90,13 @@
 
 ---
 
-### 📊 Snapshot
+ ## 🌱 Currently
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-**🔥 Currently Exploring**
-
-| Tech | Progress |
-|------|----------|
-| 🧠 LLMs & Gemini API | 86% |
-| 🤖 ML Fundamentals | 70% |
-| 🦾 AI Agents | 65% |
-| 🔍 Vector DBs & RAG | 42% |
-
-</td>
-<td width="45%" valign="top">
-
-**🏆 Highlights**
-
-- 🟢 GSSoC Contributor
-- 🟠 Hacktoberfest Level 4
-- 📊 CGPA: 8.21
-- 🎓 B.Tech CSE (2027)
-- 🌱 Open Source Enthusiast
-
-</td>
-</tr>
-</table>
+- Exploring AI Agents, RAG, and LLM applications
+- Building projects with MERN and AI tools
+- Solving DSA problems on LeetCode & Codeforces
+- Contributing to open source whenever I can
+- Learning something new from every project I build
 
 ---
 
