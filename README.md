@@ -13,6 +13,45 @@
 
 </div>
 
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyAgrwl05&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Open Source Journey
+
+<div align="center">
+
+<a href="https://www.holopin.io/@sunnyajit">
+  <img
+    src="https://holopin.me/sunnyajit"
+    alt="Sunny Kumar's Holopin Badge Board"
+    width="100%"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://www.holopin.io/@sunnyajit">
+  <img src="https://img.shields.io/badge/View%20My%20Complete%20Holopin%20Board-00C853?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 🏅 Roles & Recognition
+
+
 ---
 
 <table width="100%">
