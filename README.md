@@ -83,9 +83,9 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img height="32" src="https://skillicons.dev/icons?i=cpp,java,js,python,solidity,react,nextjs,tailwind,ts,html,css,nodejs,express,mongodb,postgres,firebase&theme=dark" />
+<img height="40" src="https://skillicons.dev/icons?i=cpp,java,js,python,solidity,react,nextjs,tailwind,ts,html,css,nodejs,express,mongodb,postgres,firebase&theme=dark" />
 <br/>
-<img height="32" src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,docker,git,github,linux&theme=dark" />
+<img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,docker,git,github,linux&theme=dark" />
 </div>
 
 ---
