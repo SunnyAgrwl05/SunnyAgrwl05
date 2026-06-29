@@ -2,7 +2,6 @@
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Hello%20World%2C%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20SDE%20Intern%20Hunter%20%7C%20GSA%20Google%2726%20%7C%20MLSA%20Microsoft%20%7C%20%F0%9F%8F%86%20AI%20Buildathon%202nd%20%7C%20%F0%9F%8C%B1%20Founder%20%40Upskillyfy&descAlignY=60&descSize=14&descColor=a0c4ff"/>
 
- 
 [![Profile Views](https://komarev.com/ghpvc/?username=SunnyAgrwl05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SunnyAgrwl05)
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7.4k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)
@@ -26,6 +25,8 @@
 </tr>
 </table>
 
+---
+
 ## 🏅 Open Source Journey
 
 <div align="center">
@@ -45,6 +46,7 @@
 </a>
 
 </div>
+
 ---
 
 ### 🏅 Roles & Recognition
@@ -57,6 +59,24 @@
 <a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_tech-volunteer-devfest-activity-7411297610973511680-TESb"><img height="26" src="https://img.shields.io/badge/GDG_Patna_%7C_Tech_Core_Team-EA4335?style=flat-square&logo=googledevelopers&logoColor=white" /></a>
 <a href="https://www.linkedin.com/posts/sunny-kumar-a06484297_salesforce-sugpatna-techcommunity-activity-7390796951237292032-QQTV"><img height="26" src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=flat-square&logo=salesforce&logoColor=white" /></a>
 </p>
+
+---
+
+### 🏆 Achievements & Awards
+
+<div align="center">
+
+| 🥇 Achievement | 📅 Year | 🏢 Organization |
+|---|---|---|
+| 🏆 India AI Impact Buildathon — **2nd Place** | 2025 | Google Cloud India |
+| 🎓 Amazon ML Summer School **'26 Selected** | 2026 | Amazon |
+| 🌟 Meta Hacker Cup — **Round 1 Qualified** | 2024 | Meta |
+| 🤝 GSSoC Season 3 — **Active Contributor** | 2024 | GirlScript Foundation |
+| 🎃 Hacktoberfest — **Level 4 Completed** | 2024 | Holopin / GitHub |
+| 🛒 Flipkart GRID 6.0 — **Participated** | 2024 | Flipkart |
+| 📊 IBM Data Science — **Certified** | 2024 | IBM / Coursera |
+
+</div>
 
 ---
 
@@ -109,7 +129,7 @@
 
 ---
 
- ## 🌱 Currently
+## 🌱 Currently
 
 - Exploring AI Agents, RAG, and LLM applications
 - Building projects with MERN and AI tools
@@ -148,7 +168,6 @@
 
 </div>
 
-
 ---
 
 ### 📈 Contribution Activity
@@ -162,4 +181,3 @@
 ### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
 
 </div>
-
