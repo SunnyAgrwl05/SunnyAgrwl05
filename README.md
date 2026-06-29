@@ -46,25 +46,6 @@
 </a>
 
 </div>
-
----
-
-### 🏅 Roles & Recognition
-
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-</td>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyAgrwl05&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🏅 Roles & Recognition
