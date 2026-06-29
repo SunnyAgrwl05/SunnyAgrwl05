@@ -68,7 +68,7 @@
 
 | 🥇 Achievement | 📅 Year | 🏢 Organization |
 |---|---|---|
-| 🏆 India AI Impact Buildathon — **2nd Place** | 2026 | Google Cloud India |
+| 🏆 India AI Impact Buildathon — **2nd Place** | 2026 | AI Impact India Submit-26 |
 | 🎓 Amazon ML Summer School **'26 Selected** | 2026 | Amazon |
 | 🌟 Meta Hacker Cup — **Round 1 Qualified** | 2024 | Meta |
 | 🤝 GSSoC Season 3 — **Active Contributor** | 2024 | GirlScript Foundation |
