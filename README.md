@@ -2,12 +2,7 @@
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Hello%20World%2C%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20SDE%20Intern%20Hunter%20%7C%20GSA%20Google%2726%20%7C%20MLSA%20Microsoft%20%7C%20%F0%9F%8F%86%20AI%20Buildathon%202nd%20%7C%20%F0%9F%8C%B1%20Founder%20%40Upskillyfy&descAlignY=60&descSize=14&descColor=a0c4ff"/>
 
-<p align="center">
-<b>🏆 India AI Buildathon 2nd Place &nbsp;|&nbsp; Amazon ML Summer School'26 &nbsp;|&nbsp; 500+ LC Top 5%</b>
-</p>
-
-
-
+ 
 [![Profile Views](https://komarev.com/ghpvc/?username=SunnyAgrwl05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SunnyAgrwl05)
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7.4k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)
