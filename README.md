@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Hello%20World%2C%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Web3%20Explorer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Community%20Leader&descAlignY=58&descSize=13&descColor=a0c4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=140&section=header&text=Hello%20World%2C%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9A%80%20SDE%20Intern%20Hunter%20%7C%20GSA%20Google%2726%20%7C%20Beta%20MLSA%20Microsoft%20%7C%20%F0%9F%8F%86%20India%20AI%20Buildathon%202nd%20%7C%20Amazon%20ML%20Summer%20School%2726%20%7C%20%F0%9F%8C%B1%20Founder%20%40Upskillyfy&descAlignY=58&descSize=11&descColor=a0c4ff"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SunnyAgrwl05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SunnyAgrwl05)
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)
