@@ -17,7 +17,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats-six-flax-50.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&cache_seconds=1800" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SunnyAgrwl05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
 </td>
 <td width="50%" valign="top">
 <img width="100%" src="https://streak-stats.demolab.com/?user=SunnyAgrwl05&theme=tokyonight&hide_border=true" />
