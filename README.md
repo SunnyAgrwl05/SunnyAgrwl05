@@ -25,10 +25,10 @@
 </td>
 </tr>
 </table>
------
  
 ## 🏅 Open Source Journey
 
+------
 <div align="center">
 
 <a href="https://www.holopin.io/@sunnyajit">
@@ -47,8 +47,6 @@
 
 </div>
  
-
-
 --------
 
 
