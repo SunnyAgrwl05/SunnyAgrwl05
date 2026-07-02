@@ -25,8 +25,8 @@
 </td>
 </tr>
 </table>
----
-
+------
+-------
 ## 🏅 Open Source Journey
 
 <div align="center">
@@ -46,8 +46,7 @@
 </a>
 
 </div>
-
----
+-------
 
 
 --------
