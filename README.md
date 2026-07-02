@@ -69,6 +69,7 @@
 |---|---|---|
 | 🏆 India AI Impact Buildathon — **2nd Place** | 2026 | India AI Impact Summit 2026 |
 | 🎓 Amazon ML Summer School **'26 Selected** - SOP | 2026 | Amazon |
+| 💻 TCS iON NQT (IT)-**Qualified** -| 2026 | TCS iON |
 | 🌟 Meta Hacker Cup — **Round 1 Qualified** | 2024 | Meta |
 | 🤝 GSSoC Season 3 — **Active Contributor** | 2024 | GirlScript Foundation |
 | 🎃 Hacktoberfest — **Level 4 Completed** | 2024 | Holopin / GitHub |
