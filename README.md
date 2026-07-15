@@ -180,9 +180,9 @@
 <a href="https://github.com/SunnyAgrwl05"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="mailto:sunnykumar98012085@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Sunnyagrwal/"><img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="[(https://drive.google.com/file/d/17ECw54IL1DBl_jzuqD5cd5B3ctQp8T8T/view?usp=sharing)]"><img height="28" src="https://img.shields.io/badge/📄_Resume-FF6B35?style=flat-square"/></a>
-<a href="https://x.com/SunnyTechLead"><img height="28" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/sunny.agrwl_sde/"><img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/17ECw54IL1DBl_jzuqD5cd5B3ctQp8T8T/view?usp=sharing" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/📄_Resume-FF6B35?style=flat-square" alt="Resume"/>
+</a><a href="https://www.instagram.com/sunny.agrwl_sde/"><img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100015548672306"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.youtube.com/@TechWithSunny90"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
