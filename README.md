@@ -7,7 +7,7 @@
 [![followers](https://img.shields.io/github/followers/SunnyAgrwl05?label=Followers&style=social)](https://github.com/SunnyAgrwl05?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7.4k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#)
-[![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](https://drive.google.com/file/d/1XN-t6q2BfuE0V91iazgdVt8vAWGZ4ij-/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](https://drive.google.com/file/d/17ECw54IL1DBl_jzuqD5cd5B3ctQp8T8T/view?usp=sharing)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://holopin.io/@sunnyajit)
 [![GSSoC](https://img.shields.io/badge/GSSoC-Active-2ea44f?style=flat-square)](https://github.com/SunnyAgrwl05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/Sunnyagrwal/)
@@ -180,7 +180,7 @@
 <a href="https://github.com/SunnyAgrwl05"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="mailto:sunnykumar98012085@gmail.com"><img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Sunnyagrwal/"><img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="https://drive.google.com/file/d/1rzoKxIqJHA5VgSqqStS6ArweoRwBw8F_/view?usp=sharing"><img height="28" src="https://img.shields.io/badge/📄_Resume-FF6B35?style=flat-square"/></a>
+<a href="[(https://drive.google.com/file/d/17ECw54IL1DBl_jzuqD5cd5B3ctQp8T8T/view?usp=sharing)]"><img height="28" src="https://img.shields.io/badge/📄_Resume-FF6B35?style=flat-square"/></a>
 <a href="https://x.com/SunnyTechLead"><img height="28" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/sunny.agrwl_sde/"><img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100015548672306"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
