@@ -200,15 +200,19 @@
 
 ### 📈 Contribution Activity
 
- 
+<p align="center">
+  <strong>GitHub Contribution Activity</strong>
+</p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="YOUR_WORKING_GRAPH_URL"
-    alt="SunnyAgrwl05 Contribution Activity"
-  />
+  View my live contribution activity directly on my GitHub profile:
+  <br>
+  <a href="https://github.com/SunnyAgrwl05">
+    github.com/SunnyAgrwl05
+  </a>
 </p>
+
+---
 ---
 
 <div align="center">
