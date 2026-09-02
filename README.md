@@ -201,16 +201,14 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <strong>GitHub Contribution Activity</strong>
+  <img
+    width="100%"
+    src="https://github.pumbas.net/api/contributions/SunnyAgrwl05?colour=ff69b4&bgColour=161b22&dotColour=c084fc&days=31&borderRadius=6"
+    alt="SunnyAgrwl05 Contribution Activity"
+  />
 </p>
 
-<p align="center">
-  View my live contribution activity directly on my GitHub profile:
-  <br>
-  <a href="https://github.com/SunnyAgrwl05">
-    github.com/SunnyAgrwl05
-  </a>
-</p>
+<hr>
 
 ---
 ---
